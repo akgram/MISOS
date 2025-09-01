@@ -1,0 +1,4 @@
+Ukoliko se Python kod testira, potrebno je da u istom direktorijumu 
+bude i input.jpeg fajl koji ce biti kompresovan.
+
+Pozdrav!
